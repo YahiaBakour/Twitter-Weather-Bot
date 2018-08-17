@@ -4,11 +4,11 @@
 TO DOWNLOAD THEM FOLLOW THIS: open command prompt and run the following commands:
 pip install tweepy
 pip install pyowm
-Creator : Yahia Bakour
+Creator : Yahia Bakour + Brandon Ziolkowski
 Purpose : Pulls weather data from open weather module and posts tweets regarding weather conditions onto twitter on a set interval
  '''
  
-'id={"name":"Yahia Bakour"'
+'id={"name":"Yahia Bakour" , "name" : "Brandon Ziolkowski"'
 
 import pyowm
 import json
